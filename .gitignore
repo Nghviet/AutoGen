@@ -2,7 +2,7 @@
 # Leading slashes removed by me, because relative paths
 
 ### Unity ###
-[Ll]ibrary/
+Library/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
